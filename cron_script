@@ -4,4 +4,5 @@ cd /home/admin3003/Weather
 python3 ./WeatherNorway.py > DailyWeatherNorway.txt
 
 git commit -m "Update weather $(date)" DailyWeatherNorway.txt
+git push
 
