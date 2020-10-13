@@ -1,0 +1,14 @@
+Weather forecast - Based on data from MET Norway
+Date/Time: 2020-10-13T18:00:00
+Location: Inner Oslofjord
+Forecast: North and northeast force 1 to 4. Much fair weather. Good. Significant wave height: Insignificant.
+
+Detailed forecast
+Time: 2020-10-13T22:00:00Z
+Latitude: 60.10
+Longitude: 9.58
++---+---------------------------+-----------------+---------------------+-------------------+---------------------+------------+
+|   | air_pressure_at_sea_level | air_temperature | cloud_area_fraction | relative_humidity | wind_from_direction | wind_speed |
++---+---------------------------+-----------------+---------------------+-------------------+---------------------+------------+
+| 0 |           1029.6          |       2.2       |         2.8         |        95.5       |         24.1        |    2.5     |
++---+---------------------------+-----------------+---------------------+-------------------+---------------------+------------+
